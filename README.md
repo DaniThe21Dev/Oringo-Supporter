@@ -1,7 +1,7 @@
 # Oringo Client
 
 
-How to use?
+- How to use?
 - Press the windows key, and r at the same time
 - Type %appdata%
 - Click on the .minecraft folder
